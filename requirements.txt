@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+pytz==2024.2
+Requests==2.32.3
+rss_parser==2.1.0
